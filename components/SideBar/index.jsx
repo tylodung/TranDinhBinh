@@ -12,9 +12,9 @@ class SideBar extends React.Component {
 		<div className='sidebar__sponsor'>Sponsor</div>
                 <div className='sidebar__title'>Important</div>
 		<div className='sidebar__link'>
-		<a href='/about/'>Bakawash tủ lạnh hiệu Baka</a>
-		<a href='http://thaoam.com'>Phát triển giao diện Thảo Am</a>
-		<a href='/payments/'>How to pay? Thanh toán</a>
+		<a href='/about/'>Bakawash tủ lạnh TỐT</a>
+		<a href='http://thaoam.com'>Những tiện ích khi mua tủ lạnh</a>
+		<a href='/payments/'>Thanh toán</a>
 		<a href='/help'>Hướng dẫn đặt mua tủ lạnh</a>
 		</div>
             </div>
