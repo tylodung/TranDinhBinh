@@ -70,7 +70,7 @@ function buildGoogleAnalyticsSetup() {
 function buildGoogleAdSense() {
   const js = `
   (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: 'ca-pub-9593704693022872',
+    google_ad_client: 'ca-pub-7323818411226202',
     enable_page_level_ads: true
   });
   `;
