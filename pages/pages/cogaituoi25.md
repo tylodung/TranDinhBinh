@@ -2,8 +2,8 @@
 title: 'Hành trình đi tìm sự sống của cô gái tuổi 25'
 layout: HomePage
 path: '/cogaituoi25/'
-meta: Hành trình đi tìm sự sống của cô gái tuổi 25 Tủ lạnh TỐT - Thương hiệu tủ lạnh cao cấp
-keywords: Hành trình đi tìm sự sống của cô gái tuổi 25 Tủ lạnh TỐT - Thương hiệu tủ lạnh cao cấp
+meta: Hành trình đi tìm sự sống của cô gái tuổi 25 Tủ lạnh 123 - Thương hiệu tủ lạnh cao cấp
+keywords: Hành trình đi tìm sự sống của cô gái tuổi 25 Tủ lạnh 123 - Thương hiệu tủ lạnh cao cấp
 ---
 
 ## Hành trình đi tìm sự sống của cô gái tuổi 25

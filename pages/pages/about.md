@@ -1,20 +1,20 @@
 ---
-title: 'Giới thiệu Tủ lạnh TỐT'
+title: 'Giới thiệu Tủ lạnh 123'
 layout: HomePage
 path: '/about/'
-meta: Giới thiệu Tủ lạnh TỐT
-keywords: Giới thiệu Tủ lạnh TỐT
+meta: Giới thiệu Tủ lạnh 123
+keywords: Giới thiệu Tủ lạnh 123
 ---
 
-Tủ lạnh TỐT
+Tủ lạnh 123
 
-**Tủ lạnh TỐT** khởi nguồn được chính thức thành lập bởi **DoanBinh** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
+**Tủ lạnh 123** khởi nguồn được chính thức thành lập bởi **DoanBinh** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
 
 Chuyên về các dòng Tủ lạnh bền bỉ, tốt, sử dụng lâu dài.
 
-## Thông tin chi tiết Tủ lạnh TỐT
+## Thông tin chi tiết
 
-Tên gọi: **Tủ lạnh TỐT** 
+Tên gọi: **Tủ lạnh 123** 
 
 Điện thoại liên hệ: [**0125 722 3268**](tel:+841257223268) (Bakadono)
 Địa chỉ Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
