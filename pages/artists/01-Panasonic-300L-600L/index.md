@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Tủ lạnh Panasonic 300L600L loại 5,6 cánh có inverter, làm đá tự động, khử mùi và diệt khuẩn
+title: Tủ lạnh Panasonic 300L, 600L làm đá tự động và diệt khuẩn
 layout: ArtistPage
 category: artists
 path: '/artists/Panasonic-300L-600L/'

@@ -12,10 +12,10 @@ class SideBar extends React.Component {
 		<div className='sidebar__sponsor'>Sponsor</div>
                 <div className='sidebar__title'>Important</div>
 		<div className='sidebar__link'>
-		<a href='/about/'>Bakawash tủ lạnh TỐT</a>
-		<a href='http://thaoam.com'>Những tiện ích khi mua tủ lạnh</a>
-		<a href='/payments/'>Thanh toán</a>
-		<a href='/help'>Hướng dẫn đặt mua tủ lạnh</a>
+		<a href='/about/'>Gới Thiệu</a>
+		<a href='http://thaoam.com'>Những Tiện Ích Khi Mua Tủ Lạnh</a>
+		<a href='/payments/'>Thanh Toán</a>
+		<a href='/help'>Hướng Dẫn Đặt Mua Tủ Lạnh</a>
 		</div>
             </div>
         );
