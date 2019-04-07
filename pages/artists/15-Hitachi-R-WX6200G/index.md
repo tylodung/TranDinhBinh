@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Tủ lạnh Hitachi RWX6200G X với 6 cửa có ngăn hút chân không
+title: Tủ lạnh Hitachi RWX6200GX 6 cửa, ngăn hút chân không
 layout: ArtistPage
 category: artists
 path: '/artists/Hitachi-R-WX6200G/'

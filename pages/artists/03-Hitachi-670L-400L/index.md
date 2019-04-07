@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Tủ lạnh Hitachi Inverter 670L400L loại 4,5,6 cánh khử mùi diệt khuẩn, làm đá tự động
+title: Tủ lạnh Hitachi Inverter 670L, 400L diệt khuẩn, làm đá tự động
 layout: ArtistPage
 category: artists
 path: '/artists/Hitachi-670L-400L/'

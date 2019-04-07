@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Tủ lạnh Hitachi RX6200E inverter 6 cửa 620L mặt gương hút chân không vuốt mở cửa tự động
+title: Tủ lạnh Hitachi RX6200E inverter 620L mặt gương mở cửa tự động
 layout: ArtistPage
 category: artists
 path: '/artists/Hitachi-R-X6200E/'

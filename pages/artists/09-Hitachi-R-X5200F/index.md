@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Tủ lạnh Hitachi RX5200F hút chân không với 6 cửa có trợ lực điện 
+title: Tủ lạnh Hitachi RX5200F hút chân không, 6 cửa trợ lực điện 
 layout: ArtistPage
 category: artists
 path: '/artists/Hitachi-R-X5200F/'

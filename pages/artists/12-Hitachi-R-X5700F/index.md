@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Tủ lạnh Hitachi RX5700F mặt gương màu đen có hút chân không và cửa trợ lực
+title: Tủ lạnh Hitachi RX5700F mặt gương màu đen
 layout: ArtistPage
 category: artists
 path: '/artists/Hitachi-R-X5700F/'
