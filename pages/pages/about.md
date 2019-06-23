@@ -1,20 +1,20 @@
 ---
-title: 'Giới thiệu Tủ lạnh Store3'
+title: 'Giới thiệu Tủ lạnh Face'
 layout: HomePage
 path: '/about/'
-meta: Giới thiệu Tủ lạnh Store3
-keywords: Giới thiệu Tủ lạnh Store3
+meta: Giới thiệu Tủ lạnh Face
+keywords: Giới thiệu Tủ lạnh Face
 ---
 
-Tủ lạnh Store3
+Tủ lạnh Face
 
-**Tủ lạnh Store3** khởi nguồn được chính thức thành lập bởi **DoanBinh** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
+**Tủ lạnh Face** khởi nguồn được chính thức thành lập bởi **DoanBinh** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
 
 Chuyên về các dòng Tủ lạnh bền bỉ, tốt, sử dụng lâu dài.
 
 ## Thông tin chi tiết
 
-Tên gọi: **Tủ lạnh Store3** 
+Tên gọi: **Tủ lạnh Face** 
 
 Điện thoại liên hệ: [**0125 722 3268**](tel:+841257223268) (Bakadono)
 Địa chỉ Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
